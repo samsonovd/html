@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+.h1{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 25%;
+    font-size: 50px;
+    color: floralwhite;
+}
+.h2{
+   position: absolute;
+    text-align: center;
+    top: 60%;
+    left: 27%;
+    color: floralwhite; 
+}
+    .img {
+    background: url(bg.jpg);
+    background-size:cover;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+}
+   
+        
+ .center{    
+        background-size: cover;
+        width: 100%;
+        height: 500px;
+        margin-top: 0;
+     text-align: center;
+     font-size: 30px;
+}
+.center p{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.h5{
+    background: blue;
+    margin: 0;
+    width: 100%;
+    text-align:center;
+    position:absolute;
+    color: floralwhite;
+    font-size: 90%;
+}
